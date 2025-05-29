@@ -1,0 +1,3 @@
+Array Declaration: int
+Array Declaration: float
+Array Declaration: double mat[3][3]
